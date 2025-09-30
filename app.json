@@ -9,7 +9,7 @@
         "pyrogram",
         "Pbxbot"
     ],
-    "repository": "https://gitlab.com/Badhacker98/PBX_2.0",
+    "repository": "https://github.com/Bad-Munda/Pbx2.0",
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
@@ -50,12 +50,12 @@
         },
         "PLUGINS_REPO": {
             "description": "Fillup the username/reponame of the plugins repo.",
-            "value": "badmunda98/PbxPlugin",
+            "value": "Bad-Munda/PbxPlugin",
             "required": true
         },
         "DEPLOY_REPO": {
             "description": "Fillup the username/reponame of the deploy repo. Consider updating the default value with your own forked repo.",
-            "value": "Badhacker98/PBX_2.0",
+            "value": "Bad-Munda/Pbx2.0",
             "required": true
         }
     },
